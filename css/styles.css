@@ -127,7 +127,7 @@ body {
   }
   .testimonials {
     display: grid;
-    grid-template-rows: repeat(2, 2fr);
+    grid-template-rows: auto;
     grid-template-columns: repeat(4, 1fr);
     max-width: 1110px;
     height: auto;
