@@ -66,8 +66,8 @@ body {
     position: absolute;
     font-size: 450px;
     color: #A775F1;
-    top: -87px;
-    right: 2px;
+    top: 0;
+    right: 24px;
     opacity: 100%;
     z-index: 0;
   }
@@ -165,8 +165,8 @@ body {
     position: absolute;
     font-size: 450px;
     color: #A775F1;
-    top: -87px;
-    right: 75px;
+    top: 0;
+    right: 80px;
     opacity: 100%;
     z-index: 0;
   }
