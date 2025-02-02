@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JairRaid/testimonials-grid-section
-- Live Site URL: 
+- Live Site URL: https://jairraid.github.io/testimonials-grid-section/
 
 ## My process
 
