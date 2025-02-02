@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/JairRaid/testimonials-grid-section
 - Live Site URL: 
 
 ## My process
